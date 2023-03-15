@@ -144,4 +144,4 @@ Browse Grafana for more dashboards [here](https://grafana.com/grafana/dashboards
 
 # Next...
 
-Tomorrow we will continue to the application level. Application logs and behavior monitoring will be in focue. We will continue to use the same setup and go deeper into the rabbit hole 😄
+Tomorrow we will continue to the application level. Application logs and behavior monitoring will be in focus. We will continue to use the same setup and go deeper into the rabbit hole 😄
